@@ -7,5 +7,5 @@
  *
  */
 
-public class EmptyClass {
+public class Different {
 }
